@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local dataset and generated artifacts
+archive (1)/
+models/
+results/
+reports/
+outputs/
+
+# Local environment and editor files
+.env
+.env.*
+.vscode/
